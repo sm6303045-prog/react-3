@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.item {
+  display: flex;
+  /* background-color: rgb(219, 223, 223); */
+  gap: 50px;
+}
+.photo {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+}
+.users {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(217, 223, 223);
+}
